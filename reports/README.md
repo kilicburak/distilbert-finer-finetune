@@ -48,6 +48,7 @@
 
 ### **3.1 Training Overview**
 - **Base Model**: DistilBERT (pretrained) - [Documentation](https://huggingface.co/docs/transformers/en/model_doc/distilbert)
+- **Environment**: Pre-configured CUDA 12.4 Pytorch 2.2.0 used.
 - **Hardware**: NVIDIA RTX 4090
 - **Training Duration**: ~10 minutes
 
